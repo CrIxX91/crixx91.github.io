@@ -46,5 +46,7 @@
       "rows": 2,
       "cols": 3
     }
-  }
+  },"requiredPermissions": [
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"
+  ]
 }
